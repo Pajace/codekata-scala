@@ -8,6 +8,8 @@ class FizzBuzzTest extends FlatSpec with Matchers {
 
     "FizzBuzz" should " return Fizz, if number is dividable by 3 " in {
         FizzBuzz.getResult(3) should be ("Fizz")
+        FizzBuzz.getResult(6) should be ("Fizz")
     }
+
 
 }
