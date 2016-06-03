@@ -16,4 +16,9 @@ class FizzBuzzTest extends FlatSpec with Matchers {
         FizzBuzz.getResult(10) should be ("Buzz")
     }
 
+    it should "return FizzBuzz if the number is dividable by 15" in {
+        FizzBuzz.getResult(15) should be ("FizzBuzz")
+        FizzBuzz.getResult(30) should be ("FizzBuzz")
+    }
+
 }
