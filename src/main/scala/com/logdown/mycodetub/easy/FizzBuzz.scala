@@ -8,5 +8,6 @@ object FizzBuzz {
         case (true, true) => "FizzBuzz"
         case (true, _) => "Fizz"
         case (_, true) => "Buzz"
+        case (_) => number.toString
     }
 }

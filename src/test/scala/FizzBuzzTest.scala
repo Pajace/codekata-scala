@@ -21,4 +21,10 @@ class FizzBuzzTest extends FlatSpec with Matchers {
         FizzBuzz.getResult(30) should be ("FizzBuzz")
     }
 
+    it should "return the same number if no other requirement is fulfilled" in {
+        FizzBuzz.getResult(1) should be ("1")
+        FizzBuzz.getResult(2) should be ("2")
+        FizzBuzz.getResult(4) should be ("4")
+    }
+
 }
