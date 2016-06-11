@@ -1,5 +1,4 @@
 import org.scalatest.{FlatSpec, Matchers}
-import FizzBuzz
 
 /**
   * Created by pajace_chen on 2016/6/3.
