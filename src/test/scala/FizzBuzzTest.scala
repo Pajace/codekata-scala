@@ -1,5 +1,5 @@
 import org.scalatest.{FlatSpec, Matchers}
-import com.logdown.mycodetub.easy.FizzBuzz
+import FizzBuzz
 
 /**
   * Created by pajace_chen on 2016/6/3.
