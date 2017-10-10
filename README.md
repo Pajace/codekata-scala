@@ -1,3 +1,22 @@
+# Code kata problem
+1. Berlin Clock
+2. Bowling Game
+3. FizzBuzz
+4. WordWrap
+5. Hotel Reservation
+
+## Berlin Clock
+- Reference - http://agilekatas.co.uk/katas/BerlinClock-Kata
+
+## Bowling Game
+- Reference - http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
+
+## FizzBuzz
+- Reference - http://codingdojo.org/kata/FizzBuzz/
+
+## WordWrap
+- Reference - http://codingdojo.org/kata/WordWrap/
+
 ## Hotel Reservation Problem
 
 A hotel chain operating in Miami wishes to offer room reservation service over the internet.
