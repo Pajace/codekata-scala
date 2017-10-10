@@ -1,5 +1,5 @@
-import org.scalatest.{FlatSpec, Matchers}
 import WordWrap._
+import org.scalatest.{FlatSpec, Matchers}
 
 /**
   * Created by Pajace on 2016/6/11.
